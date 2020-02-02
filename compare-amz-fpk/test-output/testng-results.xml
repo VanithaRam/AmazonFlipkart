@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="121799" started-at="2020-02-01T15:45:32 IST" finished-at="2020-02-01T15:47:34 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="121799" started-at="2020-02-01T15:45:32 IST" finished-at="2020-02-01T15:47:34 IST">
+      <class name="scripts.comparePriceTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:scripts.comparePriceTest@3224f60b]" name="launchBrowser" is-config="true" duration-ms="12592" started-at="2020-02-01T15:45:33 IST" finished-at="2020-02-01T15:45:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="amazonTest()[pri:0, instance:scripts.comparePriceTest@3224f60b]" name="amazonTest" duration-ms="81093" started-at="2020-02-01T15:45:45 IST" finished-at="2020-02-01T15:47:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonTest -->
+        <test-method status="PASS" signature="flipkartTest()[pri:0, instance:scripts.comparePriceTest@3224f60b]" name="flipkartTest" duration-ms="26919" started-at="2020-02-01T15:47:06 IST" finished-at="2020-02-01T15:47:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipkartTest -->
+        <test-method status="PASS" signature="priceComparisionTest()[pri:0, instance:scripts.comparePriceTest@3224f60b]" name="priceComparisionTest" duration-ms="2" started-at="2020-02-01T15:47:33 IST" finished-at="2020-02-01T15:47:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- priceComparisionTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:scripts.comparePriceTest@3224f60b]" name="closeBrowser" is-config="true" duration-ms="1140" started-at="2020-02-01T15:47:33 IST" finished-at="2020-02-01T15:47:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- scripts.comparePriceTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
